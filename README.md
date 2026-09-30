@@ -21,15 +21,15 @@ Este projeto apresenta uma interface de análise comercial para dados de vendas 
 
 ## Como abrir
 
-1. Acesse a pasta do projeto.
-2. Abra o arquivo [index.html](index.html) em um navegador.
-3. Se preferir, utilize um servidor local simples, como:
+Versão pública do dashboard: [Porsche Sales Performance](https://minaandressa2-max.github.io/DIOporsche/).
+
+Para executar localmente, inicie um servidor na pasta do projeto:
 
 ```bash
 python -m http.server 8000
 ```
 
-Em seguida, abra:
+Depois, abra este endereço no seu próprio computador:
 
 ```text
 http://localhost:8000/index.html
